@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<img  src ="framer-mv1.png" alt = "tt"/>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
