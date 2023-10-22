@@ -1,7 +1,6 @@
 # Getting Started with Create React App
-import framer-mv1 from '../images/framer-mv1.PNG';
- <image src={framer-mv1}
-            alt='planet'/>
+
+<img  src ="framer-mv1.png" alt = "tt"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
